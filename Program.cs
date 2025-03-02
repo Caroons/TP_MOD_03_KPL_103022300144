@@ -1,4 +1,4 @@
-namespace TP_MOD03_103022300144
+namespace WinFormsApp1
 {
     internal static class Program
     {
